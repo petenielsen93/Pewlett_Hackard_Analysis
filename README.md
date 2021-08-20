@@ -40,7 +40,7 @@ I then took the average salary based on title using the following statement:
 
 The data shows that staff employees currently make more than the engineers on average. As we hire new employees, we can expect this average to decrease.
 
-    ![](salaries.png)
+    ![](Resources/salaries.png)
 
 
 
